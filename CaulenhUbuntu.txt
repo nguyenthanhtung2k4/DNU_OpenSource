@@ -1,0 +1,12 @@
+//// Tao thu  muc trong Wsl Tager
+      mkdir shell_08
+
+//// toa  1  file   hello.sh 
+      #!/usr/bin/env bash
+
+      echo "Hello Thanh Tung"
+
+
+Bai 1:  Thuc hanh kiem tra 1  file co ton tai khong 
+Bai 2:  Kiem tra  tat ca  file txt vaf tong filr do  co bao nhieu tong so dong trong txt
+
